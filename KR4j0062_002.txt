@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 花間集
-#+DATE: 2020-03-31 11:43:02.045848
+#+DATE: 2020-03-31 11:43:02.126682
 #+PROPERTY: ID KR4j0062
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 2
 <pb:KR4j0062_WYG_002-1a>¶
 　　欽定四庫全書¶
@@ -266,7 +266,7 @@
 老　羅帶悔結同心獨凭朱闌思深夢覺半牀斜月小¶
 忩風觸鳴琴¶
 ¶
-　　何處遊女蜀國多雲雨雲解有情花解語&KR0805;地綉羅金¶
+　　何處遊女蜀國多雲雨雲解有情花解語窣地綉羅金¶
 縷　粧成不整金鈿含羞待月鞦韆住在緑槐隂裏門¶
 臨春水橋邊¶
 ¶

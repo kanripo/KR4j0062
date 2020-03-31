@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 花間集
-#+DATE: 2020-03-31 11:43:02.055941
+#+DATE: 2020-03-31 11:43:02.136488
 #+PROPERTY: ID KR4j0062
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 4
 <pb:KR4j0062_WYG_004-1a>¶
 　　欽定四庫全書¶
@@ -130,7 +130,7 @@
 何日歸¶
 ¶
 　　玉樓氷簟鴛鴦錦粉融香汗流山枕簾外轆轤聲斂眉¶
-含笑驚　栁隂烟漠漠低鬢蟬釵落須作一生𢬵盡君¶
+含笑驚　栁隂烟漠漠低鬢蟬釵落須作一生拚盡君¶
 今日歡¶
 ¶
 　　酒泉子¶
